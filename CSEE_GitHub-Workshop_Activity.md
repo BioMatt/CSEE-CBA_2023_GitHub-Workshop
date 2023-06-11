@@ -18,6 +18,8 @@ To start, be careful not to make changes on the same line -- this can introduce 
 
 *Answer:*
 
+pistol shrimp
+
 **Question 2.** Is a hot dog a sandwich? Justify your answer.
 
 *Answer:*
