@@ -34,6 +34,8 @@ No, it is a hot dog
 
 *Answer:*
 
+Justin Bieber
+
 **Question 5.** Which fictional ecosystem would you study if you could? E.g., the sand dunes of Arrakis, the Misty Mountains.
 
 *Answer:*
