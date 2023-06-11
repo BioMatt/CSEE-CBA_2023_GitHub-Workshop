@@ -24,6 +24,8 @@ pistol shrimp
 
 *Answer:*
 
+No, it is a hot dog
+
 **Question 3.** What is your go-to karaoke anthem?
 
 *Answer:* Goodbye Earl - The Chicks
@@ -35,6 +37,8 @@ pistol shrimp
 **Question 5.** Which fictional ecosystem would you study if you could? E.g., the sand dunes of Arrakis, the Misty Mountains.
 
 *Answer:*
+
+The ents
 
 **Other resources**
 
