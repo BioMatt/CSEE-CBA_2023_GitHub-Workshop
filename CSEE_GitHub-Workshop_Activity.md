@@ -32,7 +32,9 @@ No, it is a hot dog
 
 **Question 4.** Who is your favorite Canadian icon? E.g., Gordon Lightfoot, Rush, beavers etc.
 
-*Answer:*
+*Answer:* 
+Avril Lavigne
+
 
 **Question 5.** Which fictional ecosystem would you study if you could? E.g., the sand dunes of Arrakis, the Misty Mountains.
 
