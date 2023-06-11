@@ -22,6 +22,8 @@ To start, be careful not to make changes on the same line -- this can introduce 
 
 *Answer:*
 
+No, it is a hot dog
+
 **Question 3.** What is your go-to karaoke anthem?
 
 *Answer:*
@@ -33,6 +35,8 @@ To start, be careful not to make changes on the same line -- this can introduce 
 **Question 5.** Which fictional ecosystem would you study if you could? E.g., the sand dunes of Arrakis, the Misty Mountains.
 
 *Answer:*
+
+The ents
 
 **Other resources**
 
