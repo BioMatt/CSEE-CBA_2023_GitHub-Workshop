@@ -33,6 +33,7 @@ No, it is a hot dog
 **Question 4.** Who is your favorite Canadian icon? E.g., Gordon Lightfoot, Rush, beavers etc.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 *Answer:* 
 Avril Lavigne
 
@@ -40,6 +41,9 @@ Avril Lavigne
 *Answer:*
 Maple Syrup
 >>>>>>> fa78325d42ceca791b590e94de02abbe0ef0e3c0
+=======
+*Answer:* Maple Syrup
+>>>>>>> 48167edcc4dd5eada45ad0dc00f9c556319913b5
 
 Justin Bieber
 
@@ -47,7 +51,7 @@ Justin Bieber
 
 *Answer:*
 
-The ents
+Fangorn
 
 **Other resources**
 
